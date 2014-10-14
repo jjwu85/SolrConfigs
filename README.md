@@ -1,4 +1,4 @@
 SolrZKQueryElevation
 ====================
 
-SOLR Cloud： QueryElevationComponent组件动态加载Elevate.xml配置文件
+动态加载SOLR Cloud配置文件
